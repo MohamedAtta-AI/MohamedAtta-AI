@@ -21,7 +21,7 @@
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="/Stickers/papers.png" height="60%" width="100%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="/Stickers/NU.png" height="60%" width="60%"></img></a></td>
+                   <img src="/Stickers/unis.png" height="60%" width="60%"></img></a></td>
 </table>
 
 <!--
