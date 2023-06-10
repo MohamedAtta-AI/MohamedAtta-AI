@@ -15,13 +15,13 @@
     <tbody>
         <tr>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="Stickers/k.png" width="80%"></img></a></td>
+                   <img src="Stickers/k.png" width="90%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="/Stickers/ps.png" width="80%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="/Stickers/papers.png" width="100%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="/Stickers/unis1.png" width="70%"></img></a></td>
+                   <img src="/Stickers/unis1.png" width="80%"></img></a></td>
 </table>
 
 <!--
