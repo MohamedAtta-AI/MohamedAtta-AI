@@ -5,16 +5,19 @@
 <table>
     <thead>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">  Problem Solving  </a></td>
 <td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/"> Data Science </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/"> Problem Solving  </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/"> Papers </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/"> University Projects </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/"> Personal Projects </a></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/README.md">
-                   <img src="/repos-logos/problem-solving-training.png"       width="95%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md">
-                   <img src="/repos-logos/data-science-case-studies.png"      width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/MohamedAtta-AI/">
+                   <img src="/MohamedAtta-AI/MohamedAtta-AI/Stickers/ps.png"       width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/MohamedAtta-AI/">
+                   <img src="/MohamedAtta-AI/MohamedAtta-AI/Stickers/k.png"      width="95%"></img></a></td>
 </table>
 
 <!--
