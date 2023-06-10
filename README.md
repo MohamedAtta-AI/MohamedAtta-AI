@@ -15,16 +15,6 @@
                    <img src="/repos-logos/problem-solving-training.png"       width="95%"></img></a></td>
 <td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md">
                    <img src="/repos-logos/data-science-case-studies.png"      width="95%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/README.md">
-                   <img src="/repos-logos/educational-projects.png"           width="95%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/README.md">
-                   <img src="/repos-logos/elearning-platforms.png"            width="95%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/main/README.md">
-                   <img src="/repos-logos/job-interviews.png"                 width="95%"></img></a></td>
-<td align="center"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">
-                   <img src="/repos-logos/reference-textbooks.png"            width="95%"></img></a></td>
-        </tr>
-    </tbody>
 </table>
 
 <!--
