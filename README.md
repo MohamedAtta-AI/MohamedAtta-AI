@@ -17,11 +17,11 @@
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="Stickers/k.png" width="90%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="/Stickers/ps.png" height="60%" width="90%"></img></a></td>
+                   <img src="/Stickers/ps.png" width="90%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="/Stickers/papers.png" height="60%" width="100%"></img></a></td>
+                   <img src="/Stickers/papers.png" width="100%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="/Stickers/unis.png" height="40%" width="60%"></img></a></td>
+                   <img src="/Stickers/unis.png" width="60%"></img></a></td>
 </table>
 
 <!--
