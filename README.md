@@ -26,6 +26,7 @@
                    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="68%"></img></a></td>
 </table>
 
+<h2><a href="/README.md">About Me</a></h2>
 <!--
 **MohamedAtta-AI/MohamedAtta-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif
