@@ -7,10 +7,29 @@
         <tr>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/README.md">  Problem Solving<br>Training  </a></td>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md"> Data Science<br>Case Studies </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/README.md">      Educational<br>Projects      </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/README.md">       eLearning<br>Platforms       </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/main/README.md">            Job<br>Interviews            </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">       Reference<br>Textbooks       </a></td>
         </tr>
     </thead>
     <tbody>
         <tr>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/README.md">
+                   <img src="/repos-logos/problem-solving-training.png"       width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md">
+                   <img src="/repos-logos/data-science-case-studies.png"      width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/README.md">
+                   <img src="/repos-logos/educational-projects.png"           width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/README.md">
+                   <img src="/repos-logos/elearning-platforms.png"            width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/main/README.md">
+                   <img src="/repos-logos/job-interviews.png"                 width="95%"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">
+                   <img src="/repos-logos/reference-textbooks.png"            width="95%"></img></a></td>
+        </tr>
+    </tbody>
+</table>
 
 <!--
 **MohamedAtta-AI/MohamedAtta-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
