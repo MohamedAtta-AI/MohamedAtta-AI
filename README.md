@@ -17,7 +17,7 @@
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="/Stickers/ps.png" width="95%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="Stickers/k1.png" height="60%" width="95%"></img></a></td>
+                   <img src="Stickers/k.png" height="60%" width="95%"></img></a></td>
 </table>
 
 <!--
