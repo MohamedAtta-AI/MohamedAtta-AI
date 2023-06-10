@@ -7,10 +7,6 @@
         <tr>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/README.md">  Problem Solving<br>Training  </a></td>
 <td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md"> Data Science<br>Case Studies </a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/main/README.md">      Educational<br>Projects      </a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/README.md">       eLearning<br>Platforms       </a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Job-Interviews/blob/main/README.md">            Job<br>Interviews            </a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Reference-Textbooks/blob/master/README.md">       Reference<br>Textbooks       </a></td>
         </tr>
     </thead>
     <tbody>
