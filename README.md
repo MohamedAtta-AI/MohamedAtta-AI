@@ -23,7 +23,7 @@
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="/Stickers/unis1.png" width="80%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="65%"></img></a></td>
+                   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="68%"></img></a></td>
 </table>
 
 <!--
