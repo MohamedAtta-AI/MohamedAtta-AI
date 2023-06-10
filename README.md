@@ -23,12 +23,12 @@
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
                    <img src="/Stickers/unis1.png" width="80%"></img></a></td>
 <td align="center"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">
-                   <img src="https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif" width="20%"></img></a></td>
+                   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="20%"></img></a></td>
 </table>
 
 <!--
 **MohamedAtta-AI/MohamedAtta-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
