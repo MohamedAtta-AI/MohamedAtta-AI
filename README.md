@@ -5,8 +5,8 @@
 <table>
     <thead>
         <tr>
-<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/">  Problem Solving<br>Training  </a></td>
-<td align="center" width="16.6%"><a href="https://github.com/cs-MohamedAyman/Data-Science-Case-Studies/blob/master/README.md"> Data Science<br>Case Studies </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/">  Problem Solving  </a></td>
+<td align="center" width="16.6%"><a href="https://github.com/MohamedAtta-AI/MohamedAtta-AI/"> Data Science </a></td>
         </tr>
     </thead>
     <tbody>
