@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 <h2><a href="/README.md">Main Repositories</a></h2>
@@ -54,6 +55,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedatta-ai&show_icons=true&locale=en" alt="mohamedatta-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatta-ai&" alt="mohamedatta-ai" /></p>
+
+-->
+
+
 <!--
 **MohamedAtta-AI/MohamedAtta-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif
