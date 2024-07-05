@@ -1,7 +1,7 @@
-
+<!--
 ### Hi there 👋
 ![Mohamed Atta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAtta-AI&show_icons=true&theme=transparent)
-
+-->
 
 <!--
 <h2><a href="/README.md">Main Repositories</a></h2>
